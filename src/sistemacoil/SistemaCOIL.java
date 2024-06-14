@@ -7,6 +7,8 @@ import javafx.scene.Scene;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
+//PUTOS
+
 public class SistemaCOIL extends Application {
     
     @Override
